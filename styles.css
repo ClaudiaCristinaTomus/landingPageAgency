@@ -438,4 +438,13 @@ header {
     .imgthirdCircle{
         margin:0;
     }
+    .textleftfirstCircle{
+        width: 100%;
+    }
+    .textleftsecCircle{
+        width: 100%;
+    }
+    .textleftthirdCircle{
+        width: 100%;
+    }
 }
